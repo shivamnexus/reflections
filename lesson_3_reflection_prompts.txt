@@ -9,6 +9,9 @@ Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
     Fill in your answer here
+    Because there may be some branch that I don't want to publish and there may
+    be some changes that I don't want to send to cloud so whenever we feel like 
+    sending to cloud we can do it manually
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
