@@ -40,3 +40,5 @@ When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
     Fill in your answer here
+    When we are making a change which has chance to break our code or when we are 
+    working with more people then we have to do so
