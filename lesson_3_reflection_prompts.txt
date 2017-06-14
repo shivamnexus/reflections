@@ -32,6 +32,9 @@ How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
     Fill in your answer here
+    We would colaboate using google drive, and making folder in it and 
+    using shared folder and make git repository in it. but that will be 
+    easier to use git and github because google drive sync automatically
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
