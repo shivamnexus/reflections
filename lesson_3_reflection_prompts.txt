@@ -17,7 +17,11 @@ Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
     Fill in your answer here
-
+    When we clone someone else repository then it's called fork and when we 
+    copy our online repository for offline use we use clone and when we want 
+    to make other version of same project with some expermental feature then
+    we use branchs
+    
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
